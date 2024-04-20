@@ -67,7 +67,8 @@ jupyter notebook
 ├── data/                   # Directory for datasets used in experiments
 ├── notebooks/              # Jupyter notebooks
 ├── R/                      # R scripts
-├── <Project-Name>.Rproj    # RStudio project file
+├── Report                  # Final project report
+├── Presentation            # Final project slides
 ├── README.md               # The file you are currently reading
 ```
 
